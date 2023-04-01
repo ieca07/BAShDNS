@@ -2,8 +2,7 @@
 '''
 git clone https://github.com/ieca07/BAShDNS &&
 cd BAShDNS &&
-bash setup && 
-&& bash DNS_bashversion.sh
+bash setup && bash DNS_bashversion.sh
 '''
 # (Run in linux or if u are in termux u can use proot distro its give u ubuntu u can run this termux also.....)
 
