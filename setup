@@ -1,0 +1,15 @@
+#!/bin/bash/
+echo " ____  _  _  ___       ____    __    ___  _   _  _  _  ___ "
+echo "(  _ \( \( )/ __)     (  _ \  /__\  / __)( )_( )( \/ )(__ \ "
+echo " )(_) ))  ( \__ \ ___  ) _ < /(__)\ \__ \ ) _ (  \  /  / _/ "
+echo "(____/(_)\_)(___/(___)(____/(__)(__)(___/(_) (_)  \/  (____) "
+echo "      [*] developed by IECA [INDIAN ERROR CYBER ARMY]       "
+echo
+echo
+echo "[*] Setup For Linux...."
+sudo apt install dnsrecon
+sudo apt install dnsenum 
+sudo apt install dnsrecon
+sudo apt install fierce
+sudo apt install dnswalk
+echo "[*] finish setup."
